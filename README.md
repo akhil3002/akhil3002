@@ -15,6 +15,7 @@
 
 
 ## 📌 Featured Projects
+- [**AI-Based Explainable Molecular Property Predictor For Drug Design**](https://github.com/akhil3002/AI-Based-Explainable-Molecular-Property-Predictor-For-Drug-Design) – An explainable and reliable GNN-based framework for molecular property prediction with confidence estimation and LLM-powered molecular explanations.
 - [**Smart Railway Surveillance System**](https://github.com/akhil3002/Smart-Railway-Surveillance-System) – A Deep Learning based project that uses **YOLO, Deep Face, Flask API** etc to address certain security challenges at Railway Stations.
 - [**Speech Summarization**](https://github.com/YourUsername/Project2](https://github.com/akhil3002/Speech-Summarization-NLP-Project)) – An NLP based project that uses pretrained **Whisper AI** and **BART** for summarizing long speeches.
 - [**Energy Consumption Prediction System**](https://github.com/YourUsername/Project3](https://github.com/akhil3002/Energy-Consumption-Prediction-System-Using-ARIMA)) – An Energy Consumption forcasting project using the  statistical model **ARIMA**.

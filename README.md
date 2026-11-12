@@ -1,8 +1,8 @@
 # 👋 Hi, I'm AKHIL RAJ V  
 
 ## 🚀 About Me
-- 🎓 M.Tech Student Specializing in Artificial Intelligence and Data Science
-- 💡 Interested in: Generative AI (LLMs, Diffusion Models, GPT, RAG), Natural Language Processing (NLP) (BERT, Transformers, LangChain), Computer Vision (OpenCV, YOLO, GANs), MLOps & Deployment (ONNX, TensorFlow Serving, FastAPI), AI for Social Good (Healthcare, Climate, Education)
+- 🎓 M.Tech graduate Specializing in Artificial Intelligence and Data Science
+- 💡 Interested in: AI/ML, Generative AI (LLMs, Diffusion Models, GPT, RAG), Natural Language Processing (NLP) (BERT, Transformers, LangChain), Computer Vision (OpenCV, YOLO, GANs), MLOps & Deployment (ONNX, TensorFlow Serving, FastAPI), AI for Social Good (Healthcare, Climate, Education)
 - 📫 Reach me at: akhilrv031@gmail.com
 
 # 💻 Tech Stack:
